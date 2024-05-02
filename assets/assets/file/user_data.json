@@ -1,0 +1,33 @@
+{
+    "Série": "C",
+    "Matières": {
+        "FRANCAIS": {
+            "Note": 12,
+            "Coefficient": 2
+        },
+        "MATHS": {
+            "Note": 15,
+            "Coefficient": 6
+        },
+        "HIST-GEO": {
+            "Note": 12,
+            "Coefficient": 2
+        },
+        "ANGLAIS": {
+            "Note": 15,
+            "Coefficient": 2
+        },
+        "PCT": {
+            "Note": 11,
+            "Coefficient": 5
+        },
+        "SVT": {
+            "Note": 14,
+            "Coefficient": 2
+        },
+        "PHILO": {
+            "Note": 8,
+            "Coefficient":2
+        }
+    }
+}
